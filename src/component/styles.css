@@ -1,0 +1,11 @@
+body {
+    font-family: 'montseratt', sans-serif;
+    background-image: url('C:\Users\uuk99\OneDrive\Desktop\weatherapiprojject\weatherapiapp\weatherapi-project\src\img\pexels-rodrigo-souza-2531709.jpg');
+    background-size: cover;
+}
+
+.mytext{
+    color: aliceblue;
+    margin-top: 40px;
+    text-align: center;
+}
